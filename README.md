@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murat Benbanaste</h1>
-<h3 align="center">aspiring philosopher turned data scientist/analyst</h3>
+<h3 align="center">aspiring philosopher turned data analyst/scientist</h3>
 
 - 📫 How to reach me **mbenbanaste@gmail.com**
 
